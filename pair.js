@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected by WATSON TECH*
-*_Made With WATSON TECH_*
+*_Made With ❤️🤍_*
 ______________________________________
 ╔════◇
 ║ *『 WOW YOU'VE CHOSEN WATSON MD 』*
