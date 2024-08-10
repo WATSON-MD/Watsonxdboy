@@ -1,1 +1,1 @@
-my session generator
+WATSON-XD SESSION
