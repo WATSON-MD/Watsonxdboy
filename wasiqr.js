@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Nteej Tech_*
+*_Session Connected By WATSON-XD_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN NTEEJ MD 』*
+║ *『 WOW YOU'VE CHOSEN WATSON MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❍ *Tgram:* _https://t.me/Nteej_
-║❍ *Owner:* _https://wa.me/714497545_
-║❍ *Repo:* _https://github.com/Ntee-j01/NTEEJ-MD_
-║❍ *WaGroup:* _https://chat.whatsapp.com/Er6RNNNVWV5LORN9Nr6hL7_
-║❍ *WaChannel:* _https://whatsapp.com/channel/0029Vae3GZF9Bb658QgSCl1I_
-║❍ *Plugins:* _https://github.com/Ntee-j01/NTEEJ-MD-PLUGINS_
+║❍ *Tgram:* _https://t.me/watsonFOURPENCE_
+║❍ *Owner:* _https://wa.me/263781330745_
+║❍ *Repo:* _https://github.com/WATSON-XD1_
+║❍ *WaGroup:* _https://chat.whatsapp.com/E0a2bl9wHYlCHuL35WBR88_
+║❍ *WaChannel:* _https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b_
+║❍ *Plugins:* _https://github.com/WATSON-XD1/WATSON-MD--PLUGINS_
 ╚════════════════════════╝
 _____________________________________
 	
